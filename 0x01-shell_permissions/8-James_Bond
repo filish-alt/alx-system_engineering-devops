@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --7 hello
+chmod -R o=rwx hello
